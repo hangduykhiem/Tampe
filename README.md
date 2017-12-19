@@ -11,3 +11,7 @@ The project is divided to 3 parts:
 3. A client of some sort, to display the data. This is to be decided.
 
 Each of the components' source code is stored in their own individual folder. There is also documentation specific to each component in the respective folder.
+
+### License
+
+The project is MIT licensed. Check out the license [here](https://github.com/hangduykhiem/Tampe/blob/master/LICENSE)
